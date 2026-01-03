@@ -46,4 +46,16 @@ def help():
     9. show_all(lang)    -> Display all information at once.
     
     Face Art: his_face1() to his_face5()
+
+    -----------------------------------------------------
+    সোর্স কোড ও যোগাযোগ (Source Code & Contact):
+    -----------------------------------------------------
+    Source Code: https://github.com/mahadi99900/Osman_Hadi
+    
+    For any corrections or queries, contact the developer:
+    WhatsApp & Telegram: +8801701902728
+    Email: islammdmahadi943@gmail.com
+    
+    যেকোনো ভুল বা তথ্যের প্রয়োজনে সরাসরি যোগাযোগ করুন।
+    -----------------------------------------------------
     """)
