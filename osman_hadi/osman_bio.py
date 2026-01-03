@@ -7,7 +7,7 @@ def bio(lang='b'):
     display_banner()
     
     if lang.lower() == 'e':
-        print("\n--- EXTENDED BIOGRAPHY & HUMAN RIGHTS ARCHIVE ---")
+        print("\n--- EXTENDED BIOGRAPHY  ARCHIVE ---")
         print("--------------------------------------------------")
         print("Full Name       : Sharif Osman Bin Hadi")
         print("Common Name     : Osman Hadi")
